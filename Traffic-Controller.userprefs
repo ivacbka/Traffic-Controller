@@ -1,10 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="c:\Users\Игорь\Documents\GitHub\Traffic Controller\Traffic-Controller\Assets\NGUI\Examples\Scripts\InventorySystem\Game\UICursor.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PartsPlatesManager.cs">
     <Files>
       <File FileName="Assets\SampleSpawner.cs" Line="1" Column="1" />
-      <File FileName="Assets\LevelRules.cs" Line="11" Column="36" />
-      <File FileName="c:\Users\Игорь\Documents\GitHub\Traffic Controller\Traffic-Controller\Assets\NGUI\Examples\Scripts\InventorySystem\Game\UICursor.cs" Line="67" Column="9" />
+      <File FileName="Assets\LevelRules.cs" Line="1" Column="1" />
+      <File FileName="c:\Users\Игорь\Documents\GitHub\Traffic Controller\Traffic-Controller\Assets\NGUI\Examples\Scripts\InventorySystem\Game\UICursor.cs" Line="67" Column="8" />
+      <File FileName="Assets\PartsPlatesManager.cs" Line="18" Column="27" />
+      <File FileName="Assets\NGUI\Scripts\UI\UICamera.cs" Line="29" Column="11" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
